@@ -5,7 +5,7 @@
   <a href="mailto:oscar.s3047@gmail.com">
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/gmail.svg" />
   </a>
-  <a href="www.linkedin.com/in/oscarsanchez50936262" target="_blank">
+  <a href="www.linkedin.com/in/oscarsanchez50936262">
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/linkedin.svg" />
   </a>
   <a href="https://x.com/d0n7_m1nd_me" target="_blank">
